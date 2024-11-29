@@ -6,4 +6,9 @@
 #two{
     color:blue;
     font-size: 36px;
+    font-weight: bold;
+}
+
+.odd.big{
+    font-size: 24px;
 }
