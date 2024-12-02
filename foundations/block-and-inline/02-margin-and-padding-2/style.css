@@ -21,15 +21,23 @@ body {
   margin-top: 16px;
   margin-bottom: 16px;
   margin-left: 8px;
-  margin-right: px;
+  margin-right: 8px;
   padding: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 24px;
+  padding-right: 24px;
+  margin: auto;
 }
